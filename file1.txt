@@ -1,2 +1,4 @@
 Learning git is fun!
 Mike changes here
+More changes for lab #2
+Made changes for lab #3
